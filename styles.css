@@ -10,7 +10,7 @@ html {
 
 body {
     height: 100%;
-    background-image: linear-gradient(#789f35, #226666);
+    background-image: linear-gradient(#0c0a20, #3b0550);
 }
 
 .game {
@@ -20,7 +20,7 @@ body {
     transform: translate(-50%, -50%);
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.5);
     padding: 15px;
-    background-color: #aa3939;
+    background-color: #5d800c;
     border-radius: 5px;
 }
 
@@ -28,7 +28,7 @@ body {
     display: grid;
     grid-template-columns: 80px 80px 80px 80px;
     grid-template-rows: 80px 80px 80px 80px;
-    border: 1px solid #550000;
+    border: 1px solid #18016d;
 }
 
 .grid button {
@@ -53,13 +53,13 @@ body {
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.5);
     padding: 5px;
     width: 80px;
-    background-color: #d4ee9f;
+    background-color: #aca1af;
     color: #003333;
     cursor: pointer;
 }
 
 .footer button:hover {
-    color: #d4ee9f;
+    color: #1a220a;
     background-color: #003333;
 }
 
