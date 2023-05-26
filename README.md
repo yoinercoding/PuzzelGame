@@ -1,4 +1,4 @@
-Project Puzzel Game
+Project Puzzle Game
 
 Saludos :D
 
